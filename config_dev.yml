@@ -1,1 +1,2 @@
-"key":"this is a config when you want to dev"
+config:
+  info: "matser search,springcloud config/config_dev.yml,version=1"
